@@ -90,13 +90,6 @@ quote       : "i'm groot. You're ugly."
 
 ## 🎮 Contribution Graph
 
-<!-- Pacman -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rissnaprasetya/Rissnaprasetya/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rissnaprasetya/Rissnaprasetya/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Rissnaprasetya/Rissnaprasetya/output/pacman-contribution-graph.svg">
-</picture>
-
 <!-- Galaga -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rissnaprasetya/Rissnaprasetya/output/galaga-contribution-graph-dark.svg">
