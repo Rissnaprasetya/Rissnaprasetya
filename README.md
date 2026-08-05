@@ -78,13 +78,7 @@ quote       : "i'm groot. You're ugly."
 
 ## 🚀 Project Unggulan
 
-<div align="center">
 
-[![Webapp SDN](https://github-readme-stats.vercel.app/api/pin/?username=Rissnaprasetya&repo=Webapp-sdn&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB3&text_color=FFFFFF&icon_color=00FFB3)](https://github.com/Rissnaprasetya/Webapp-sdn)
-
-[![Passion Shoot App](https://github-readme-stats.vercel.app/api/pin/?username=Rissnaprasetya&repo=Passion-shoot-app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB3&text_color=FFFFFF&icon_color=00FFB3)](https://github.com/Rissnaprasetya/Passion-shoot-app)
-
-</div>
 
 ---
 
