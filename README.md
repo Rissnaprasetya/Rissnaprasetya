@@ -19,7 +19,7 @@
 name        : Rissnaprasetya
 role        : IT Developer
 company     : Sambu Group / PT Pulau Sambu
-location    : Batam, Indonesia
+location    : Riau, Indonesia
 status      : Always building something...
 quote       : "i'm groot. You're ugly."
 ```
