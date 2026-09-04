@@ -17,7 +17,7 @@
 
 ```yaml
 name        : Rissnaprasetya
-role        : IT Developer
+role        : Programmer
 company     : Sambu Group / PT Pulau Sambu
 location    : Riau, Indonesia
 status      : Always building something...
